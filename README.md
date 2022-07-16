@@ -1,6 +1,7 @@
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+live demo here:- https://buddhiashen.github.io/Order-summary-card/
 
 ## Welcome! 👋
 
